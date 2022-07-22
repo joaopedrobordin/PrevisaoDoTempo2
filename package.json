@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "accuweather": "^1.0.1",
+    "jquery": "^3.6.0"
+  }
+}
